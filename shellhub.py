@@ -1,4 +1,4 @@
-#!./bin/python
+#!bin/python
 from bottle import route, run, template
 import os
 
